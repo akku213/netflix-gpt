@@ -1,3 +1,4 @@
+NETFLIX PROJECT
 
 - Create react app
 - Configured TailwindCSS
