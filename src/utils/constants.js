@@ -19,5 +19,3 @@ export const BG_URL =
     {identifier :"en", name: "English"}, 
     {identifier :"hindi", name: "Hindi"},
     {identifier :"spanish", name: "Spanish"}];
-
-  export const OPENAI_KEY = "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";
