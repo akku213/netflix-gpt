@@ -7,7 +7,7 @@ const GptMovieSuggestions = () => {
   const { gptMovies } = useSelector(store => store.gpt);
   if(!gptMovies) return null;
   return (
-    <div className='p-4 w-1/4 m-4 bg-black ml-[37%] text-white'>
+    <div className='p-4 w-1/4 m-4 bg-black ml-[37%] text-white bg-opacity-90'>
       <div>       
           <MovieList 
           title ={gptMovies[0].title} movies = {gptMovies} />

@@ -38,6 +38,11 @@
 - GPT Search Bar
 - Multi-language Feature in our App
 - Integrate GPT APIs
+- fetched gptMoviesSuggestions from TMDB
+- created gptSlice added data
+- Resused Movie List component to make movie suggestion container
+- Memoization
+- Made our Site Responsive
 
 
 
